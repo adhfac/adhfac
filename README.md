@@ -1,59 +1,128 @@
-# Hi there, I'm Adjie 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Adjie+%F0%9F%91%8B;Full-Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-[![Instagram Badge](https://img.shields.io/badge/-@adhfac-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adhfac)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/5zOza7nBkc/)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mdhafaadjiesapu1)
+<div align="center">
+  <a href="https://instagram.com/adhfac">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/5zOza7nBkc/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/mdhafaadjiesapu1">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  </a>
+</div>
 
-## About Me
-- 🧑‍🎓 Student developer from Indonesia
-- 🌱 Currently focused on backend development and Flutter
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adhfac&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="center" />
+</div>
+
+<br/>
+
+## 💫 About Me
+
+<img align="right" height="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
+
+- 🧑‍🎓 Student developer from Indonesia crafting digital experiences
+- 🌱 Currently mastering backend development and Flutter
 - 👯 Looking to collaborate on open-source mobile or web projects
 - 🤔 Seeking help with implementing secure authentication and API integration
+- ⚡ Fun fact: Code is like humor. When you have to explain it, it's bad!
 
-## Tech Stack
+<br/>
 
-### Languages
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+## 🛠️ My Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=dart,java,js,php" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind" />
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=laravel,express,nodejs" />
+  
+  <h3>Mobile</h3>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+  
+  <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</div>
 
-### Backend
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
 
-### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+## 📊 GitHub Stats
 
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adhfac&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhfac&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
-## GitHub Stats
+<br/>
 
-![Adjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhfac&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhfac&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhfac&layout=compact&theme=radical)
+<br/>
 
-## 📊 Weekly Development Breakdown
+## 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/adhfac/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhfac&repo=project1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/adhfac/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhfac&repo=project2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br/>
+
+## 📈 Weekly Development Breakdown
 
 ```text
-Backend     █████████░░░░░░░  45%
-Flutter     ███████░░░░░░░░░  35%
-Frontend    ████░░░░░░░░░░░░  20%
+Backend Development ███████████████████░░░░░   75.00 %
+Flutter             ██████████░░░░░░░░░░░░░░   40.00 %
+React               █████░░░░░░░░░░░░░░░░░░░   20.00 %
+Database Design     ████░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 
-## 🤝 Let's Connect!
+<br/>
 
-I'm always interested in collaborating on exciting projects or discussing tech. Feel free to reach out if you'd like to work together or just chat about development!
+## 🏆 Coding Challenge Badges
 
----
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=5zOza7nBkc" alt="LeetCode Badges"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views">
-</p>
+<br/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<div align="center">
+  <h2>✍️ Random Dev Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550" alt="dev quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adhfac&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div>
