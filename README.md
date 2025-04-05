@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Adjie+%F0%9F%91%8B;Full-Stack+Developer;Mobile+App+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6FDA44&center=true&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Adjie+%F0%9F%91%8B;HI;Apprentice;IDK+IFOrgot" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -76,11 +76,11 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/adhfac/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhfac&repo=project1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/adhfac/this_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhfac&repo=this_project&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/adhfac/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhfac&repo=project2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/adhfac/jadwal_solat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhfac&repo=jadwal_solat&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
