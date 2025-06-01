@@ -27,7 +27,7 @@
 <img align="right" height="220" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
 
 - 🧑‍🎓 Student developer from Indonesia crafting digital experiences
-- 🌱 Currently mastering backend development and Flutter
+- 🌱 Currently learning backend development and Flutter
 - 👯 Looking to collaborate on open-source mobile or web projects
 - 🤔 Seeking help with implementing secure authentication and API integration
 - ⚡ Fun fact: Code is like humor. When you have to explain it, it's bad!
