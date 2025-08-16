@@ -2,15 +2,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F9F6FE&center=true&vCenter=true&width=435&lines=Oh%2C+hi+There!;My+name+is+Adjie;I+am+an+informatic+student+currently;Junior+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </div>
 
----
-
 ## About Me
 - Informatics student from **Indonesia**  
 - Currently working with **MATLAB**, **MERN stack**, and **Flutter**  
 - Passionate about **Web & Mobile Development**  
----
 
-## 🛠 Tech Stack
+## Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
@@ -19,10 +16,7 @@
   <img src="https://img.shields.io/badge/MATLAB-000?style=for-the-badge&logo=mathworks" />
 </div>
 
-
----
-
-## 🌐 Find Me
+##  Find Me
 <div align="center">
   <a href="https://instagram.com/adhfac">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
