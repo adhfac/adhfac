@@ -1,14 +1,15 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=87AD6D&center=true&vCenter=true&width=435&lines=Oh%2C+hi+There!;My+name+is+Adjie;I+am+an+informatic+student+currently;Junior+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F9F6FE&center=true&vCenter=true&width=435&lines=Oh%2C+hi+There!;My+name+is+Adjie;I+am+an+informatic+student+currently;Junior+Full-Stack+Web+Developer" alt="Typing SVG" /></a>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
+<div style="font-family: 'Fira Code', monospace; font-size: 16px;">
 - 🎓 Informatics student from **Indonesia**  
 - 💻 Currently working with **MATLAB**, **MERN stack**, and **Flutter**  
 - 🚀 Passionate about **Web & Mobile Development**  
-
+</div>
 ---
 
 ## 🛠 Tech Stack
