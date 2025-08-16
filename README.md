@@ -4,22 +4,21 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Informatics student from **Indonesia**  
-- 💻 Currently working with **MATLAB**, **MERN stack**, and **Flutter**  
-- 🚀 Passionate about **Web & Mobile Development**  
+## About Me
+- Informatics student from **Indonesia**  
+- Currently working with **MATLAB**, **MERN stack**, and **Flutter**  
+- Passionate about **Web & Mobile Development**  
 ---
 
 ## 🛠 Tech Stack
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)  
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)  
-![MATLAB](https://img.shields.io/badge/MATLAB-000?style=for-the-badge&logo=mathworks)  
-
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/MATLAB-000?style=for-the-badge&logo=mathworks" />
 </div>
+
 
 ---
 
