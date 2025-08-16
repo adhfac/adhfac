@@ -5,11 +5,9 @@
 ---
 
 ## 👨‍💻 About Me
-<div style="font-family: 'Fira Code', monospace; font-size: 16px;">
 - 🎓 Informatics student from **Indonesia**  
 - 💻 Currently working with **MATLAB**, **MERN stack**, and **Flutter**  
 - 🚀 Passionate about **Web & Mobile Development**  
-</div>
 ---
 
 ## 🛠 Tech Stack
